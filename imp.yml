@@ -1,0 +1,21 @@
+portfolio
+  - index.html
+  - assets
+    - css
+    - images
+    - js
+
+
+div
+  left
+    video
+    div -> video-content
+      - p
+      - p
+    div
+      - p 
+      - p
+  right
+    - header
+      -title
+    - main-content
